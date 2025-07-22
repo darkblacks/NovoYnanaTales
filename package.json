@@ -1,0 +1,20 @@
+{
+  "name": "novoynanatales",
+  "version": "1.0.0",
+  "description": "Projeto front-end do Ynana Tales, interface de autenticação e leitura web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkblacks/NovoYnanaTales.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkblacks/NovoYnanaTales/issues"
+  },
+  "homepage": "https://github.com/darkblacks/NovoYnanaTales#readme"
+}
